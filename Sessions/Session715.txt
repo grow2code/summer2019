@@ -51,3 +51,12 @@ CSS Basics
 Style "Welcome to my Website Project"
 
 Homework: Finish "Welcome to my Website Project"
+  Requirements:
+  - Welcome header
+  - Link to some other Website
+  - Picture
+  - List
+  - Bold and Italics
+  - Background color
+  - Border styling 
+  Bonus: Make a picture a link
