@@ -1,0 +1,32 @@
+/*
+This is a comment
+*/
+/*
+CSS stands for Cascading Style Sheets. CSS is used to style. It can change the color, font, size, borders, and many more of an HTML file. It is best to create a separate CSS file and link it to the HTML file, than having them together in one file. 
+*/
+/*
+General Form is:
+
+Selected Tag {
+  property: value;
+}
+
+*/
+
+/*Colors can be names, or codes*/
+
+h1{
+  color: blue;
+}
+
+li {
+  color: rgb(0,200,0);
+}
+
+p{
+  color: #000000;
+}
+
+h4{
+  color: rgba(13,90,140,0.5)
+}
