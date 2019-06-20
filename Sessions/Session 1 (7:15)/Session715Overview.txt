@@ -1,4 +1,4 @@
-Grow2Code Session 1 - 7/15/19
+Grow2Code Session 1 - 6/15/19
 
 Topic: Basic HTML / CSS
 
@@ -58,5 +58,5 @@ Homework: Finish "Welcome to my Website Project"
   - List
   - Bold and Italics
   - Background color
-  - Border styling 
+  - Border styling
   Bonus: Make a picture a link
