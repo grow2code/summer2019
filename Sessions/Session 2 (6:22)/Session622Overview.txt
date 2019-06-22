@@ -46,14 +46,13 @@ CSS Advanced
 
 Style Course Sign Up Form
 
-Homework: Finish Course Sign Up Form
+Homework: Recruiting students to your club form
   Requirements:
   - Welcome header
-  - Description of course
+  - Description of club
+  - Form
+  - Different Fonts
+  - Using text-align style
   - Bold and Italics
   - Background color
   - Border styling
-  - Form
-  - Different Fonts
-  - Using text-align
-  - Using Box Model (margin, padding, border)

@@ -1,0 +1,12 @@
+body {
+  background-color: #90EE90;
+}
+
+td {
+  background-color: pink;
+  text-align: center;
+}
+
+textarea {
+  background-color: yellow;
+}
