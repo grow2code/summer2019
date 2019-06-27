@@ -1,0 +1,57 @@
+Grow2Code Session 2 - 6/22/19
+
+Topic: Bootstrap / Intro to Javascript
+
+Introduction
+  - Review of Homework
+  - Questions and Answers
+
+Box Model Concept Introduction
+  - Padding
+  - Border
+  - Margin
+
+
+Bootstrap
+1. How to attach Bootstrap
+2. Bootstrap Buttons
+3. Bootstrap Navbar
+4. Bootstrap Grid
+
+
+
+Project: Guess Number Game Creator
+
+Break
+
+Javascript
+1. Console practice
+  - Var
+  - Math
+  - String
+  - Alert()
+  - Prompt()
+2. Connecting Javascript to HTML
+3. Operators
+  - >, <, ==, ===, !=, !==, &&, ||
+4. Control Flow
+  - If
+  - Else
+5. While Loops
+6. For Loops
+
+
+
+Style Guess Number Game Creator
+
+Homework: Guess Animal Game Creator
+  Requirements:
+  - Welcome header
+  - Clues of what animal is
+  - Alert
+  - Prompt
+  - If / Else 
+  - Using text-align style
+  - Bold and Italics
+  - Background color
+  - Border styling
