@@ -16,11 +16,8 @@ Bootstrap
 1. How to attach Bootstrap
 2. Bootstrap Buttons
 3. Bootstrap Navbar
-4. Bootstrap Grid
 
 
-
-Project: Guess Number Game Creator
 
 Break
 
@@ -32,26 +29,14 @@ Javascript
   - Alert()
   - Prompt()
 2. Connecting Javascript to HTML
-3. Operators
-  - >, <, ==, ===, !=, !==, &&, ||
-4. Control Flow
-  - If
-  - Else
-5. While Loops
-6. For Loops
 
 
 
-Style Guess Number Game Creator
-
-Homework: Guess Animal Game Creator
+Homework: Psychiatrist / Questionaire
   Requirements:
-  - Welcome header
-  - Clues of what animal is
-  - Alert
-  - Prompt
-  - If / Else 
-  - Using text-align style
-  - Bold and Italics
-  - Background color
-  - Border styling
+  - Page about who you are and what you do
+  - Description of your job 
+  - Box Model: padding, margin, border
+  - Javascript: Prompt, Alert
+    - Ask questions for user to answer
+    - Come out with a conclusion to tell the user
