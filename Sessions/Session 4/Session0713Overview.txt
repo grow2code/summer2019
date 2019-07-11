@@ -1,0 +1,30 @@
+Grow2Code Session 4 - 6/22/19
+
+Topic: Javascript Advanced / Document Object Model
+
+Introduction
+  - Review of Homework
+  - Questions and Answers
+
+
+Javascript
+1. Review of variables, prompt, and connection to HTML
+2. Operators / Equality
+3. Control Flow / Conditionals
+4. While / For Loops
+5. Functions
+6. Arrays
+7. Objects
+
+Break
+
+Document Object Model
+
+1. DOM Interaction
+2. Events
+
+Tic-Tac-Toe Game
+
+
+
+Homework: Connect 4 Game (Very difficult)
