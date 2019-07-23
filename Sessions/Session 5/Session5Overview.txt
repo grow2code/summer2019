@@ -1,0 +1,33 @@
+Grow2Code Session 5 - 7/20/19
+
+Topic: Javascript Advanced / Document Object Model
+
+Introduction
+  - Review of Homework
+  - Questions and Answers
+
+Navbar / bootstrap
+1. https://getbootstrap.com/docs/4.0/components/navbar/
+
+Javascript
+1. Review of variables, prompt, and connection to HTML
+2. Operators / Equality
+3. Control Flow / Conditionals
+4. While
+5. Fop Loop
+
+
+Document Object Model
+1. Query selector
+
+Example: var h = document.querySelector("h1");
+
+
+Advanced Javascript / HTML / CSS Tutorials: https://www.w3schools.com/howto/
+
+Homework: Website with Navbar and Advanced javascript
+Requirements
+  - have navbar
+  - at least 4 pages with all of them connected
+  - have at least one advanced Javascript feature from https://www.w3schools.com/howto/ that you did not use
+  - use document.querySelector()
